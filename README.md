@@ -8,7 +8,7 @@ You can then continue to write them publicly.
 
 ## TODO:
 - [ ] External word list
-- [ ] Actionbar reading
+- [x] Actionbar reading
 - [ ] Auto write mode
 - [ ] Automatic missing theme contribution (possible?)
 - [ ] You tell me.
