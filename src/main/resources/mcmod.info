@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gtbc",
+  "name": "Guess The Build Cheat",
+  "description": "A cheat for Hypixels 'Guess The Build' game.",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TomJuri"],
+  "credits": "The community of hypixel cheating for most of the words.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
